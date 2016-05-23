@@ -1,0 +1,28 @@
+name: lovestory
+favicon: null
+layout_spectrum: 0.35786665603518486
+typography_spectrum: 0.4898393477778882
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8712307545356452
+  lightness: 0.15600134967826307
+  saturation: 0.7502205979544669
+  rhythmicContrast: 0.39453439600765705
+purpose: []
